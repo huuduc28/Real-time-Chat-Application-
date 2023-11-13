@@ -1,0 +1,5 @@
+- cd vào thư mục project 
+- Cài đặt node modules thông qua câu lệnh: npm i
+- Vào mongoDB, tạo database tên là chatapplication
+- Chạy project với dòng lệnh: node app.js hoặc npm start (môi trường phát triển)
+- Có thể login vào trang web bằng account google hoặc register account mới
